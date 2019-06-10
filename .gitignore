@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+UMAHumanLW/Assets/UMA/
+UMAHumanLW/Assets/UMA.meta
+UMAHumanLW/Assets/Test/
+UMAHumanLW/Assets/Test.meta
